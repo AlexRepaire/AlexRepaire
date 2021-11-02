@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🚀 I use daily: JavaScript
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRepaire&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRepaire&layout=compact)](https://github.com/AlexRepaire/github-readme-stats)
