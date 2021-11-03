@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🚀 I use daily: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![image](https://user-images.githubusercontent.com/56023123/139941565-797522cb-5f9c-419e-a1c9-62ced9dc7135.png) ![image](https://user-images.githubusercontent.com/56023123/139941596-d1103dee-d32a-47f4-af29-56f0a061e36c.png) 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
