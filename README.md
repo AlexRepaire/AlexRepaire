@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRepaire&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRepaire&layout=compact)](https://github.com/AlexRepaire/github-readme-stats)
- ! [Compteur de vues de profil] (https://komarev.com/ghpvc/?username=AlexRepaire)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
