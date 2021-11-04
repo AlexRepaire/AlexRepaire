@@ -2,7 +2,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Salut, moi c'est Alex <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
-#### 📬 Tu peux me trouver sur (https://github.com/Defcon27/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/alexandre-repaire-carlier/)
+#### 📬 Tu peux me trouver sur (https://github.com/Defcon27/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)]
 
 ### A propos de moi...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Je suis développeur **React / spring boot**. Je suis **passionné de technologie 💻 😃** j'aime apprendre et travailler avec les nouvelles tech. <br/><br/>
