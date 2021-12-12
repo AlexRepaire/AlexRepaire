@@ -8,7 +8,7 @@
 Je suis développeur **React / spring boot**. Je suis **passionné de technologie 💻 😃** j'aime apprendre et travailler avec les nouvelles tech. <br/><br/>
 
 ## ⚡️ Quick Facts
-- 🛠  Je travaille actuellement avec React, Spring boot et PostgreSQL
+- 🛠  Je travaille actuellement avec React, NodeJs et PostgreSQL/MongoDb
 - 🌱 Je suis entrain de me former en autodidacte sur Nodejs, MongoDB et React-Native
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
