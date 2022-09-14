@@ -5,11 +5,11 @@
 #### 📬 Tu peux me trouver sur <a href="https://www.linkedin.com/in/alexandre-repaire-carlier/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)</a>
 
 ### A propos de moi...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Je suis développeur **React / NodeJS**. Je suis **passionné de technologie 💻 😃** j'aime apprendre et travailler avec les nouvelles tech. <br/><br/>
+Je suis développeur **Web / Mobile**. Je suis **passionné de technologie 💻 😃** j'aime apprendre et travailler avec les nouvelles tech. <br/><br/>
 
 ## ⚡️ Quick Facts
-- 🛠  Je travaille actuellement avec React, NodeJs et PostgreSQL/MongoDb
-- 🌱 Je suis entrain de me former en autodidacte sur Nodejs, MongoDB et React-Native
+- 🛠  Je travaille actuellement avec Spring / Hibernate et React.
+- 🌱 Je suis entrain de me former en autodidacte sur SwiftUI / RxSwift
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 <!--
