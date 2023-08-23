@@ -8,8 +8,7 @@
 Je suis développeur **Web / Mobile**. Je suis **passionné de technologie 💻 😃** j'aime apprendre et travailler avec les nouvelles tech. <br/><br/>
 
 ## ⚡️ Quick Facts
-- 🛠  Je travaille actuellement avec Reactjs / Nodejs et Flutter.
-- 🌱 Je suis me forme régulièrement sur les nouvelles technos, en ce moment sur du Nestjs
+- 🛠  Je travaille actuellement avec Flutter.
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 <!--
